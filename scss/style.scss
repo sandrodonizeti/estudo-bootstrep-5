@@ -2,9 +2,10 @@
 @import "../node_modules/bootstrap/scss/functions";
 @import "../node_modules/bootstrap/scss/variables";
 $theme-colors: (
-primary: $purple,
-secondary:  $secondary,
-info:       $info,
+primary: #37beb0,
+secondary:  #e51616,
+info:       #07f71f,
+warning:    #2c32dd,
 );
   $prefix: 'on-';
   @import "../node_modules/bootstrap/scss/bootstrap";
